@@ -1,0 +1,2 @@
+# Texture-Segmentation-by-K-Means-Clustering
+Texture Segmentation is a pixel-based process of identifying segments of textures in a given image by extracting features from each pixel. Here the K-Means clustering algorithm is used to classify the pixels into different classes of textures. The energy is extracted from each pixel in the image and each pixel becomes a data point or the clustering algorithm.
